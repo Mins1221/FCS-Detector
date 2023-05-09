@@ -19,3 +19,25 @@
     margin:auto;
     height:86px;
 }
+.searchArea{
+    width:300px;
+    height:40px;
+    background: rgba(0,0,0,0.5);
+    border-radius: 5px;
+    margin-top:24px;
+}
+.searchArea > form > input{
+    border: none;
+    width:250px;
+    height: 40px;
+    background: rgba(0,0,0,0.0);
+    color: white;
+    padding-left:10px;
+}
+
+.searchArea > form > span{
+    width: 50px;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
