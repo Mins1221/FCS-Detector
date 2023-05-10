@@ -41,3 +41,18 @@
     font-weight: bold;
     cursor: pointer;
 }
+.nav{
+    display:flex;
+    justify-content: flex-end;
+    line-height: 86px;
+    width:calc(1280px-300px);
+    
+}
+
+.nav > li{
+    margin-left:84px;
+}
+
+.nav > li > a{
+    color:yellowgreen;
+}
