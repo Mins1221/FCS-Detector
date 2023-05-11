@@ -68,3 +68,13 @@ h1{
 .nav > li > a{
     color:yellowgreen;
 }
+.amount{
+    position: relative;
+    top: -66px;
+    display: flex;
+    width:1280px;
+    background: white;
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.1); /*좌 우 움직이는 위치*/
+    margin : auto;
+
+}
